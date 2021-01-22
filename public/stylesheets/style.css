@@ -1,0 +1,26 @@
+body {
+  padding-left: 50px;
+  padding-right: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.form_container {
+  margin-top: 50px;
+  width: 400px;
+}
+
+.list_custom {
+  margin-top: 50px;
+}
+
+.list_custom .card {
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.filter_input {
+  margin: 20px;
+}
